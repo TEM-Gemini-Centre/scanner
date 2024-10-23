@@ -13,6 +13,9 @@ setup(
         "numpy",
         "pip",
         "sounddevice",
+        "matplotlib",
+        "ipython",
+        "jupyterlab"
     ],
     python_requires=">=3.7",
     package_data={
