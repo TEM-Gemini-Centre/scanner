@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "mode": "NBD",
+    "alpha": 5
+  },
+  "calibration": {
+    "BDUX": 1,
+    "BDUY": 1,
+    "BDLX": 1,
+    "BDLY": 1
+  },
+  "step": {
+    "value": 1,
+    "units": "nm"
+  },
+  "rotation": {
+    "value": 0,
+    "units": "deg"
+  }
+}
